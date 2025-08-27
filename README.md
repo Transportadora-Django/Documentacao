@@ -5,8 +5,8 @@
   <br>
   <h3>Sistema inteligente de simulação e alocação de veículos para transporte de cargas</h3>
   
-  [![Documentation](https://img.shields.io/badge/docs-mkdocs-blue.svg)](https://johnnylopes.github.io/TPPE-2025.2/)
-  [![GitHub Pages](https://github.com/johnnylopes/TPPE-2025.2/actions/workflows/deploy-docs.yml/badge.svg)](https://github.com/johnnylopes/TPPE-2025.2/actions/workflows/deploy-docs.yml)
+  [![Documentation](https://img.shields.io/badge/docs-mkdocs-blue.svg)](https://Transportadora-Django.github.io/Documentacao/)
+  [![GitHub Pages](https://github.com/Transportadora-Django/Documentacao/actions/workflows/deploy-docs.yml/badge.svg)](https://github.com/Transportadora-Django/Documentacao/actions/workflows/deploy-docs.yml)
   [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 </div>
 
@@ -43,13 +43,13 @@ Construir um sistema de simulação e alocação de veículos para fretes que:
 
 ## 📚 Documentação
 
-A documentação completa está disponível em: **[https://johnnylopes.github.io/TPPE-2025.2/](https://johnnylopes.github.io/TPPE-2025.2/)**
+A documentação completa está disponível em: **[https://Transportadora-Django.github.io/Documentacao/](https://Transportadora-Django.github.io/Documentacao/)**
 
 ### Estrutura da Documentação
 
-- 🏠 **[Home](https://johnnylopes.github.io/TPPE-2025.2/)** - Visão geral do projeto
-- 💡 **[Brainstorm](https://johnnylopes.github.io/TPPE-2025.2/04-brainstorm-historias/)** - 16 histórias de usuário organizadas por perfil
-- 📑 **[Backlog](https://johnnylopes.github.io/TPPE-2025.2/05-backlog/)** - Histórias priorizadas com critérios de aceite
+- 🏠 **[Home](https://Transportadora-Django.github.io/Documentacao/)** - Visão geral do projeto
+- 💡 **[Brainstorm](https://Transportadora-Django.github.io/Documentacao/04-brainstorm-historias/)** - 16 histórias de usuário organizadas por perfil
+- 📑 **[Backlog](https://Transportadora-Django.github.io/Documentacao/05-backlog/)** - Histórias priorizadas com critérios de aceite
 
 ## 🚀 Como Executar a Documentação
 
@@ -62,8 +62,8 @@ A documentação completa está disponível em: **[https://johnnylopes.github.io
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/johnnylopes/TPPE-2025.2.git
-cd TPPE-2025.2/Documentacao
+git clone https://github.com/Transportadora-Django/Documentacao.git
+cd Documentacao
 ```
 
 2. Instale as dependências:
