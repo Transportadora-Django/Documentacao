@@ -1,24 +1,24 @@
-# 📘 Projeto — Técnicas de Programação para Plataformas Emergentes (FGA0242)
-
-<div class="hero">
-  <div class="hero-content">
-    <h1>
-      <img src="assets/Logo-NeoCargo.svg" alt="NeoCargo Logo" class="hero-logo">
-    </h1>
-    <p>Sistema inteligente de simulação e alocação de veículos para transporte de cargas</p>
+<div class="hero-modern">
+  <div class="hero-modern-content">
+    <div class="hero-modern-visual">
+      <img src="assets/Logo-NeoCargo.svg" alt="NeoCargo" class="hero-modern-logo">
+    </div>
+    <div class="hero-modern-text">
+      <h1 class="hero-modern-title">
+        <span class="hero-modern-brand">NeoCargo</span>
+        <span class="hero-modern-subtitle">Documentação Técnica</span>
+      </h1>
+      <p class="hero-modern-description">
+        Plataforma inteligente de simulação e alocação de veículos para transporte de cargas
+      </p>
+      <div class="hero-modern-badges">
+        <span class="hero-badge">Django</span>
+        <span class="hero-badge">Docker</span>
+        <span class="hero-badge">PostgreSQL</span>
+      </div>
+    </div>
   </div>
 </div>
-
-Este projeto integra a disciplina **Técnicas de Programação para Plataformas Emergentes (FGA0242)** e tem como objetivo demonstrar todas as etapas de um desenvolvimento de software **de ponta a ponta**: levantamento e análise, modelagem, implementação, testes e documentação.
-
----
-
-## 🔎 Ponto de Partida (Reaproveitamento de Código)
-
-O projeto **não** parte apenas do enunciado: ele utiliza e **reaproveita implementações existentes** do repositório base, reorganizando-as no padrão Django (MVT) e **ampliando a regra de negócio** (ex.: novas histórias de usuário, perfis Gerente/Motorista/Cliente).
-
-!!! info "Repositório Base"
-    👉 [https://github.com/wagnermc506/OOP_ep2_mirror/tree/master](https://github.com/wagnermc506/OOP_ep2_mirror/tree/master)
 
 ---
 
@@ -121,6 +121,22 @@ O projeto **não** parte apenas do enunciado: ele utiliza e **reaproveita implem
       <div class="nav-number">02</div>
       <h3>Backlog</h3>
       <p>Priorização e organização das demandas do projeto</p>
+    </div>
+  </a>
+
+  <a href="06-uml-geral/" class="nav-card-link">
+    <div class="nav-card">
+      <div class="nav-number">03</div>
+      <h3>UML Geral</h3>
+      <p>Diagrama de classes completo do sistema NeoCargo</p>
+    </div>
+  </a>
+
+  <a href="07-banco-dados/" class="nav-card-link">
+    <div class="nav-card">
+      <div class="nav-number">04</div>
+      <h3>Banco de Dados</h3>
+      <p>Modelagem relacional e estrutura do PostgreSQL</p>
     </div>
   </a>
 </div>

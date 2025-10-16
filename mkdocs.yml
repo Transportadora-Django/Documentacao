@@ -1,5 +1,5 @@
-site_name: NeoCargo Documentation
-site_description: Documentação do projeto NeoCargo
+site_name: NeoCargo
+site_description: Plataforma inteligente de simulação e alocação de veículos para transporte de cargas
 site_author: NeoCargo Team
 site_url: https://johnnylopes.github.io/TPPE-2025.2
 
@@ -110,6 +110,8 @@ nav:
   - Home: index.md
   - Brainstorm: 04-brainstorm-historias.md
   - Backlog: 05-backlog.md
+  - UML Geral: 06-uml-geral.md
+  - Banco de Dados: 07-banco-dados.md
 
 # Extra
 extra:
