@@ -1,12 +1,12 @@
 site_name: NeoCargo
 site_description: Plataforma inteligente de simulação e alocação de veículos para transporte de cargas
 site_author: NeoCargo Team
-site_url: https://johnnylopes.github.io/TPPE-2025.2
+site_url: https://transportadora-django.github.io/Documentacao
 
 # Repository
-repo_name: johnnylopes/TPPE-2025.2
-repo_url: https://github.com/johnnylopes/TPPE-2025.2
-edit_uri: edit/main/Documentacao/docs/
+repo_name: Transportadora-Django/Documentacao
+repo_url: https://github.com/Transportadora-Django/Documentacao
+edit_uri: edit/main/docs/
 
 # Configuration
 theme:
@@ -90,8 +90,8 @@ markdown_extensions:
   - pymdownx.keys
   - pymdownx.magiclink:
       repo_url_shorthand: true
-      user: johnnylopes
-      repo: TPPE-2025.2
+      user: Transportadora-Django
+      repo: Documentacao
   - pymdownx.mark
   - pymdownx.smartsymbols
   - pymdownx.superfences:
