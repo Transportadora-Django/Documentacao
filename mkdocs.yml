@@ -110,6 +110,7 @@ nav:
   - Home: index.md
   - Brainstorm: 04-brainstorm-historias.md
   - Backlog: 05-backlog.md
+  - Protótipos: 09-prototipos.md
   - UML Planejado: 06-uml-geral.md
   - UML Implementado: 08-uml-implementado.md
   - Banco de Dados: 07-banco-dados.md
